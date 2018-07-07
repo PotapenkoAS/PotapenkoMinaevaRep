@@ -1,0 +1,11 @@
+c:\users\atapse\source\repos\Games_Main_Menu\Games_Main_Menu\obj\Debug\Games_Main_Menu.csprojResolveAssemblyReference.cache
+c:\users\atapse\source\repos\Games_Main_Menu\Games_Main_Menu\obj\Debug\Games_Main_Menu.Properties.Resources.resources
+c:\users\atapse\source\repos\Games_Main_Menu\Games_Main_Menu\obj\Debug\Tetris.Tetris_Main_Form.resources
+c:\users\atapse\source\repos\Games_Main_Menu\Games_Main_Menu\obj\Debug\Games_Main_Menu.csproj.GenerateResource.Cache
+c:\users\atapse\source\repos\Games_Main_Menu\Games_Main_Menu\obj\Debug\Games_Main_Menu.csproj.CoreCompileInputs.cache
+c:\users\atapse\source\repos\Games_Main_Menu\Games_Main_Menu\bin\Debug\Games_Main_Menu.exe.config
+c:\users\atapse\source\repos\Games_Main_Menu\Games_Main_Menu\bin\Debug\Games_Main_Menu.exe
+c:\users\atapse\source\repos\Games_Main_Menu\Games_Main_Menu\bin\Debug\Games_Main_Menu.pdb
+c:\users\atapse\source\repos\Games_Main_Menu\Games_Main_Menu\obj\Debug\Games_Main_Menu.exe
+c:\users\atapse\source\repos\Games_Main_Menu\Games_Main_Menu\obj\Debug\Games_Main_Menu.pdb
+c:\users\atapse\source\repos\Games_Main_Menu\Games_Main_Menu\obj\Debug\Games_Main_Menu.Main_Menu.resources
