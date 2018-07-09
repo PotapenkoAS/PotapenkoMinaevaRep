@@ -1,0 +1,30 @@
+
+plugins {
+  
+    id 'java'
+}
+
+repositories {
+    jcenter()
+}
+dependencies {
+
+    compile 'org.slf4j:slf4j-api:1.7.25'
+    testCompile("org.junit.jupiter:junit-jupiter-api:5.2.0")
+    testRuntime('org.junit.jupiter:junit-jupiter-engine:5.2.0')
+    test.useJUnitPlatform()
+}
+test {
+
+
+    testLogging {
+        events "passed", "skipped", "failed"
+    }
+
+    reports {
+        html.enabled = true
+    }
+}
+
+
+
