@@ -1,4 +1,4 @@
-package main.java;
+package my.pkg;
 
 public class Evklid {
     public int nod(int a, int b){

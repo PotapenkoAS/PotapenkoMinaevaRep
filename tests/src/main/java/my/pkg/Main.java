@@ -1,8 +1,6 @@
-package main.java;
+package my.pkg;
 
 import java.util.Scanner;
-import main.java.Evklid;
-import main.java.Evklid;
 
 public class Main {
 

@@ -1,7 +1,7 @@
-package test.java;
+package my.pkg;
 
 
-import main.java.Evklid;
+import my.pkg.Evklid;
 import org.junit.jupiter.api.Test;
 import java.util.Random;
 
